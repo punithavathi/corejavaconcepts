@@ -1,0 +1,23 @@
+
+public class RectanglMain extends Shape{
+
+	{
+		int length;
+		int breath;
+		int area;
+		public void display()
+		{
+			System.out.println("Enter the length");
+			System.out.println("Enter the breath");
+			area=length* breath;
+			
+			
+		}
+
+		public static void main(String[] args)
+		{
+		   RectanglMain r=new RectanglMain();
+		   r.display();
+		}
+	}
+	}

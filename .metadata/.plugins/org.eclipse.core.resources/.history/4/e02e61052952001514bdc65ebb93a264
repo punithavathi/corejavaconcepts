@@ -1,0 +1,41 @@
+import java.util.Scanner;
+
+
+public class Miles {
+	
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+int mile;
+Scanner n =new Scanner(System.in);
+//System.out.println("Enter the miles");
+ //mile=n.nextInt();
+  //int temp=1;
+  
+ 
+ 
+// 
+	
+//while(temp!=0)
+{
+	//
+	//double kilometer=mile*1.60934;
+	//System.out.println(kilometer);
+	//temp=0;
+	
+}//
+
+System.out.println("Enter centimeter");
+int centimeter=n.nextInt();
+System.out.println(centimeter);
+int temp1=0;
+while(temp1!=0)
+{
+	double meter=centimeter*0.01;
+	System.out.println(meter);
+	temp1=0;
+	
+}
+}
+}

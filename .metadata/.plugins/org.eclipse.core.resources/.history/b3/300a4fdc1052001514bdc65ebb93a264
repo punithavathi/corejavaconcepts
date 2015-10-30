@@ -1,0 +1,12 @@
+
+public class Rect {
+
+	public static void main(String[] args) {
+		
+			   RectanglMain r=new RectanglMain();
+			   r.display();
+			}
+		}
+		
+
+	

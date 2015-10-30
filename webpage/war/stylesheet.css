@@ -1,0 +1,28 @@
+img
+{
+	color:#cc0000;
+	height:100px;
+	width:100px;
+	border:1px;
+}
+p
+{
+	font-family:Impact;
+	font-size:19px;
+	color:#ff6994;
+
+}
+div
+{
+	border-radius: 5px;
+	border: 2px solid #6495ED;
+	color:yellow;
+	background-color:red;
+	margin:auto;
+	
+}
+a
+{
+	text-decoration:none;
+	color:pink;
+}

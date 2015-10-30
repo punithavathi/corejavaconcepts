@@ -1,0 +1,131 @@
+
+Sep 08, 2015 18:02:20.43 NEW SESSION
+Sep 08, 2015 18:02:20.43 [GFX1-]: OpenSharedResource failed for format 65
+Sep 08, 2015 18:17:39.99 [GFX1-]: OpenSharedResource failed for format 65
+Sep 08, 2015 18:19:42.98 1441716582984	addons.update-checker	WARN	Update manifest for {972ce4c6-7e08-4474-a285-3208198ce6fd} did not contain an updates property
+
+Sep 09, 2015 10:31:38.67 NEW SESSION
+Sep 09, 2015 10:31:38.67 [GFX1-]: OpenSharedResource failed for format 65
+Sep 09, 2015 10:31:51.40 console.warn: Asynchronous operation was aborted as selection changed.
+Sep 09, 2015 10:34:33.12 console.warn: Asynchronous operation was aborted as selection changed.
+Sep 09, 2015 10:35:56.28 console.warn: Asynchronous operation was aborted as selection changed.
+Sep 09, 2015 11:18:55.36 console.warn: Asynchronous operation was aborted as selection changed.
+Sep 09, 2015 11:27:22.67 console.warn: Asynchronous operation was aborted as selection changed.
+Sep 09, 2015 11:27:57.22 console.error: 
+Sep 09, 2015 11:27:57.22   Protocol error (noSuchActor): No such actor for ID: server1.conn4.animationsActor22
+Sep 09, 2015 11:28:00.44 console.error: 
+Sep 09, 2015 11:28:00.44   Protocol error (noSuchActor): No such actor for ID: server1.conn3.animationsActor22
+Sep 09, 2015 11:28:02.05 console.error: 
+Sep 09, 2015 11:28:02.05   Protocol error (noSuchActor): No such actor for ID: server1.conn2.animationsActor22
+Sep 09, 2015 11:28:03.82 console.error: 
+Sep 09, 2015 11:28:03.82   Protocol error (noSuchActor): No such actor for ID: server1.conn1.animationsActor22
+Sep 09, 2015 11:28:08.91 console.error: 
+Sep 09, 2015 11:28:08.91   Protocol error (noSuchActor): No such actor for ID: server1.conn0.animationsActor22
+Sep 09, 2015 11:30:37.29 [GFX1-]: OpenSharedResource failed for format 65
+Sep 09, 2015 11:36:16.65 console.warn: Asynchronous operation was aborted as selection changed.
+Sep 09, 2015 11:46:03.55 console.error: 
+Sep 09, 2015 11:46:03.55   Protocol error (noSuchActor): No such actor for ID: server1.conn0.animationsActor22
+Sep 09, 2015 11:46:30.84 [GFX1-]: OpenSharedResource failed for format 65
+Sep 09, 2015 11:49:00.91 [GFX1-]: OpenSharedResource failed for format 65
+Sep 09, 2015 12:41:15.80 [GFX1-]: OpenSharedResource failed for format 65
+Sep 09, 2015 12:49:28.55 [GFX1-]: OpenSharedResource failed for format 65
+Sep 09, 2015 12:50:29.24 [GFX1-]: OpenSharedResource failed for format 65
+Sep 09, 2015 12:54:11.82 [GFX1-]: OpenSharedResource failed for format 65
+Sep 09, 2015 12:54:33.71 console.warn: Asynchronous operation was aborted as selection changed.
+Sep 09, 2015 12:57:13.01 console.error: 
+Sep 09, 2015 12:57:13.01   Protocol error (noSuchActor): No such actor for ID: server1.conn0.animationsActor22
+Sep 09, 2015 12:59:19.97 [GFX1-]: OpenSharedResource failed for format 65
+Sep 09, 2015 13:00:13.46 [GFX1-]: OpenSharedResource failed for format 65
+Sep 09, 2015 13:00:53.56 [GFX1-]: OpenSharedResource failed for format 65
+Sep 09, 2015 13:02:09.11 [GFX1-]: OpenSharedResource failed for format 65
+Sep 09, 2015 13:04:21.83 console.warn: Asynchronous operation was aborted as selection changed.
+Sep 09, 2015 13:05:08.36 console.warn: Asynchronous operation was aborted as selection changed.
+Sep 09, 2015 13:07:32.32 console.warn: Asynchronous operation was aborted as selection changed.
+Sep 09, 2015 13:09:21.42 console.warn: Asynchronous operation was aborted as selection changed.
+Sep 09, 2015 13:10:58.77 console.warn: Asynchronous operation was aborted as selection changed.
+Sep 09, 2015 13:11:46.75 console.error: 
+Sep 09, 2015 13:11:46.75   Protocol error (noSuchActor): No such actor for ID: server1.conn0.animationsActor22
+Sep 09, 2015 13:11:46.77 console.error: 
+Sep 09, 2015 13:11:46.77   Protocol error (noSuchActor): No such actor for ID: server1.conn1.animationsActor22
+Sep 09, 2015 13:11:46.77 console.error: 
+Sep 09, 2015 13:11:46.77   Protocol error (noSuchActor): No such actor for ID: server1.conn2.animationsActor22
+Sep 09, 2015 13:11:46.78 console.error: 
+Sep 09, 2015 13:11:46.78   Protocol error (noSuchActor): No such actor for ID: server1.conn3.animationsActor22
+Sep 09, 2015 13:11:46.79 console.error: 
+Sep 09, 2015 13:11:46.79   Protocol error (noSuchActor): No such actor for ID: server1.conn4.animationsActor22
+Sep 09, 2015 13:14:28.52 [GFX1-]: OpenSharedResource failed for format 65
+Sep 09, 2015 13:14:38.52 console.warn: Asynchronous operation was aborted as selection changed.
+Sep 09, 2015 13:16:52.65 console.warn: Asynchronous operation was aborted as selection changed.
+Sep 09, 2015 13:18:15.23 console.warn: Asynchronous operation was aborted as selection changed.
+Sep 09, 2015 13:41:25.90 console.warn: Asynchronous operation was aborted as selection changed.
+Sep 09, 2015 13:43:43.13 console.warn: Asynchronous operation was aborted as selection changed.
+Sep 09, 2015 13:45:01.48 console.warn: Asynchronous operation was aborted as selection changed.
+Sep 09, 2015 13:48:24.95 console.warn: Asynchronous operation was aborted as selection changed.
+Sep 09, 2015 13:50:21.26 console.warn: Asynchronous operation was aborted as selection changed.
+Sep 09, 2015 13:51:27.27 console.warn: Asynchronous operation was aborted as selection changed.
+Sep 09, 2015 13:53:34.75 console.warn: Asynchronous operation was aborted as selection changed.
+Sep 09, 2015 13:54:48.69 console.warn: Asynchronous operation was aborted as selection changed.
+Sep 09, 2015 13:57:56.77 console.error: 
+Sep 09, 2015 13:57:56.77   Protocol error (noSuchActor): No such actor for ID: server1.conn10.animationsActor22
+Sep 09, 2015 13:57:58.29 console.error: 
+Sep 09, 2015 13:57:58.30   Protocol error (noSuchActor): No such actor for ID: server1.conn9.animationsActor22
+Sep 09, 2015 13:58:02.06 console.error: 
+Sep 09, 2015 13:58:02.06   Protocol error (noSuchActor): No such actor for ID: server1.conn8.animationsActor22
+Sep 09, 2015 13:58:03.02 E/MPEG4Extractor( 5384): No width or height, assuming worst case 1080p
+Sep 09, 2015 13:58:06.69 console.error: 
+Sep 09, 2015 13:58:06.69   Protocol error (noSuchActor): No such actor for ID: server1.conn11.animationsActor22
+Sep 09, 2015 13:58:11.44 console.error: 
+Sep 09, 2015 13:58:11.44   Protocol error (noSuchActor): No such actor for ID: server1.conn5.animationsActor22
+Sep 09, 2015 18:19:42.34 1441802982317	addons.update-checker	WARN	Update manifest for {972ce4c6-7e08-4474-a285-3208198ce6fd} did not contain an updates property
+Sep 09, 2015 19:03:18.26 console.error: 
+Sep 09, 2015 19:03:18.26   Protocol error (noSuchActor): No such actor for ID: server1.conn0.animationsActor22
+Sep 09, 2015 19:03:18.27 console.error: 
+Sep 09, 2015 19:03:18.27   Protocol error (noSuchActor): No such actor for ID: server1.conn1.animationsActor22
+Sep 09, 2015 19:03:18.27 console.error: 
+Sep 09, 2015 19:03:18.27   Protocol error (noSuchActor): No such actor for ID: server1.conn4.animationsActor22
+Sep 09, 2015 19:03:18.27 console.error: 
+Sep 09, 2015 19:03:18.27   Protocol error (noSuchActor): No such actor for ID: server1.conn6.animationsActor22
+Sep 09, 2015 19:03:18.29 console.error: 
+Sep 09, 2015 19:03:18.29   Protocol error (noSuchActor): No such actor for ID: server1.conn7.animationsActor22
+
+Sep 12, 2015 10:08:47.16 NEW SESSION
+Sep 12, 2015 10:08:47.16 [GFX1-]: OpenSharedResource failed for format 65
+Sep 12, 2015 10:18:50.47 1442033330454	addons.update-checker	WARN	Update manifest for {972ce4c6-7e08-4474-a285-3208198ce6fd} did not contain an updates property
+
+Sep 12, 2015 11:49:01.57 NEW SESSION
+Sep 12, 2015 11:49:01.57 [GFX1-]: OpenSharedResource failed for format 65
+
+Sep 14, 2015 17:53:48.02 NEW SESSION
+Sep 14, 2015 17:53:48.02 [GFX1-]: OpenSharedResource failed for format 65
+Sep 14, 2015 18:03:51.37 1442234031349	addons.update-checker	WARN	Update manifest for {972ce4c6-7e08-4474-a285-3208198ce6fd} did not contain an updates property
+
+Sep 28, 2015 10:08:39.37 NEW SESSION
+Sep 28, 2015 10:08:39.37 [GFX1-]: OpenSharedResource failed for format 65
+Sep 28, 2015 11:10:27.21 [GFX1-]: OpenSharedResource failed for format 65
+Sep 28, 2015 11:20:29.83 1443419429819	addons.update-checker	WARN	Update manifest for {972ce4c6-7e08-4474-a285-3208198ce6fd} did not contain an updates property
+Sep 28, 2015 12:31:15.89 [GFX1-]: OpenSharedResource failed for format 65
+Sep 28, 2015 12:33:16.74 [GFX1-]: OpenSharedResource failed for format 65
+
+Oct 07, 2015 11:05:47.21 NEW SESSION
+Oct 07, 2015 11:05:47.21 [GFX1-]: OpenSharedResource failed for format 65
+Oct 07, 2015 11:05:56.05 console.warn: Asynchronous operation was aborted as selection changed.
+Oct 07, 2015 11:06:15.10 onPacket threw an exception: Error: Server did not specify an actor, dropping packet: {"error":"unknownError","message":"error occurred while processing 'resume: TypeError: generatedSourceActor is null\nStack: TabSources.prototype.getOriginalLocation@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/actors/utils/TabSources.js:568:9\nThreadActor.prototype._handleResumeLimit@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/actors/script.js:949:12\nThreadActor.prototype.onResume@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/actors/script.js:1055:28\nDSC_onPacket@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/main.js:1456:15\nLocalDebuggerTransport.prototype.send/<@resource://gre/modules/devtools/dbg-client.jsm -> resource://gre/modules/devtools/transport/transport.js:561:11\nmakeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/DevToolsUtils.js:82:14\nmakeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/DevToolsUtils.js:82:14\nEventLoop.prototype.enter@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/actors/script.js:372:5\nThreadActor.prototype._pushThreadPause@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/actors/script.js:577:5\nThreadActor.prototype.onInterrupt@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/actors/script.js:1415:7\nDSC_onPacket@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/main.js:1456:15\nLocalDebuggerTransport.prototype.send/<@resource://gre/modules/devtools/dbg-client.jsm -> resource://gre/modules/devtools/transport/transport.js:561:11\nmakeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/DevToolsUtils.js:82:14\nmakeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/DevToolsUtils.js:82:14\nLine: 568, column: 8"}
+Oct 07, 2015 11:06:15.10 Stack: DebuggerClient.prototype.onPacket@resource://gre/modules/devtools/dbg-client.jsm:944:1
+Oct 07, 2015 11:06:15.10 LocalDebuggerTransport.prototype.send/<@resource://gre/modules/devtools/dbg-client.jsm -> resource://gre/modules/devtools/transport/transport.js:561:11
+Oct 07, 2015 11:06:15.10 makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/DevToolsUtils.js:82:14
+Oct 07, 2015 11:06:15.10 makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/DevToolsUtils.js:82:14
+Oct 07, 2015 11:06:15.10 EventLoop.prototype.enter@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/actors/script.js:372:5
+Oct 07, 2015 11:06:15.10 ThreadActor.prototype._pushThreadPause@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/actors/script.js:577:5
+Oct 07, 2015 11:06:15.10 ThreadActor.prototype.onInterrupt@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/actors/script.js:1415:7
+Oct 07, 2015 11:06:15.10 DSC_onPacket@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/main.js:1456:15
+Oct 07, 2015 11:06:15.10 LocalDebuggerTransport.prototype.send/<@resource://gre/modules/devtools/dbg-client.jsm -> resource://gre/modules/devtools/transport/transport.js:561:11
+Oct 07, 2015 11:06:15.10 makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/DevToolsUtils.js:82:14
+Oct 07, 2015 11:06:15.10 makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/DevToolsUtils.js:82:14
+Oct 07, 2015 11:06:15.11 Line: 944, column: 0
+Oct 07, 2015 11:15:49.58 1444196749564	addons.update-checker	WARN	Update manifest for {972ce4c6-7e08-4474-a285-3208198ce6fd} did not contain an updates property
+
+Oct 16, 2015 11:42:07.14 NEW SESSION
+Oct 16, 2015 11:42:07.14 1444975927139	addons.update-checker	WARN	Update manifest for {972ce4c6-7e08-4474-a285-3208198ce6fd} did not contain an updates property
+
+Oct 29, 2015 16:43:44.92 NEW SESSION
+Oct 29, 2015 16:43:44.92 console.warn: Asynchronous operation was aborted as selection changed.

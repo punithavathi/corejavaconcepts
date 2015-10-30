@@ -1,0 +1,16 @@
+
+public class RectanglMain extends Shape{
+
+	public void display()
+	{
+		System.out.println("The rectangle area is "+area);
+	}
+	
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		RectanglMain r=new RectanglMain();
+		r.display();
+
+	}
+
+}

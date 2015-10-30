@@ -1,0 +1,17 @@
+
+public class SquareMain extends Square {
+	int area;
+public void display()
+{
+	area=side*side;
+	System.out.println(side);
+}
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		SquareMain s=new SquareMain();
+		s.display();
+		
+
+	}
+
+}

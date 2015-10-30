@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;stylesheet.css&apos; to &apos;war&apos;&#x0D;&#x0A;- Original project: &apos;webpage&apos;&#x0D;&#x0A;- Destination element: &apos;war&apos;&#x0D;&#x0A;- Original element: &apos;stylesheet.css&apos;" description="Copy file" element1="war/WEB-INF/stylesheet.css" files="1" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1444116700398" target="/webpage/war" units="0" version="1.0"/>
+</session>

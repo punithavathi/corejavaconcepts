@@ -1,0 +1,14 @@
+
+public class Shape {
+	int breath;
+	int length;
+	public Shape(length a,breath b)
+	{
+		
+	}
+	public int getArea()
+	{
+		 return length*breath;
+	}
+
+}

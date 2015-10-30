@@ -1,0 +1,14 @@
+
+public class Rectangle {
+	int breath;
+	int length;
+	public Rectangle(length a,breath b)
+	{
+		
+	}
+	public int getArea()
+	{
+		 return length*breath;
+	}
+
+}

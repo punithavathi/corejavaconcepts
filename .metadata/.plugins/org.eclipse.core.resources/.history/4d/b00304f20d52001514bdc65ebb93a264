@@ -1,0 +1,17 @@
+
+public class RectanglMain extends Shape{
+
+	public void display()
+	{
+		area=length*breath;
+		System.out.println(area);
+	}
+	
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		RectanglMain r=new RectanglMain();
+		r.display();
+
+	}
+
+}

@@ -1,0 +1,26 @@
+<html>
+<head>
+<h1>Welcome</h1>
+<p id='demo'>Display the Fruits Name</p>
+<script>
+function myFunction()
+{
+	var index;
+    var text = "<ul>";
+    var fruits = ["Banana", "Orange", "Apple", "Mango"];
+    for (index = 0; index < fruits.length; index++) {
+        text += "<li>" + fruits[index] + "</li>";
+    }
+    text += "</ul>";
+    document.getElementById("demo").innerHTML = text;
+
+	
+	}
+
+
+</script>
+</head>
+<body>
+<button onClick="myFunction()">Try it</button>
+</body>
+</html>

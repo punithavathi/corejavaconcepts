@@ -1,0 +1,9 @@
+
+public class Square {
+	int side=20;
+	public void display()
+	{
+		System.out.println("The square is");
+	}
+
+}

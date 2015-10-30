@@ -1,0 +1,13 @@
+
+public class Shape {
+	int breath;
+	int length;
+	int area;
+
+public void display()
+{
+	System.out.println(area);
+	
+}
+	
+}

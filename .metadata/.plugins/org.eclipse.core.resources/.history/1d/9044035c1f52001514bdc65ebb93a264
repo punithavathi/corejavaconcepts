@@ -1,0 +1,20 @@
+import java.util.Scanner;
+
+
+public class Miles {
+	
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+double mile;
+Scanner in =new Scanner(System.in);
+System.out.println("Enter the miles");
+ mile=in.nextInt();
+ 
+ 
+ double kilometer=mile*1.60934;
+System.out.println(kilometer);
+	}
+
+}
